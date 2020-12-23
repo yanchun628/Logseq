@@ -1,9 +1,9 @@
 #+TITLE: Dec 23rd, 2020
 
 **
-:PROPERTIES:
-:: 
-:END:
+#+BEGIN_QUOTE
+预去不得去 薄游成久游
+#+END_QUOTE
 ** First day @[[Logseq]]
 *** 还是放不下 Daily Journal 功能噢，嘿嘿
 *** Notion 总给人笨重的感觉
