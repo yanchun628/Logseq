@@ -1,5 +1,9 @@
 #+TITLE: Dec 23rd, 2020
 
+**
+#+BEGIN_NOTE
+
+#+END_NOTE
 ** First day @[[Logseq]]
 *** 还是放不下 Daily Journal 功能噢，嘿嘿
 *** Notion 总给人笨重的感觉
@@ -8,4 +12,3 @@
 ** [[画]]
 ** [[Ideas]]
 ** [[游戏]]
-**
