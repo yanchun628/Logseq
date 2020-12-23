@@ -5,6 +5,6 @@
 ** KEY 2
 *** 1500 吧
 **
-|column1|column2|
+|名称|价格|
 |--|--|
 |value1|value2|
