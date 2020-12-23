@@ -1,5 +1,5 @@
 #+TITLE: Dec 23rd, 2020
 
-** First day @Logseq
+** First day @[[Logseq]]
 *** 还是放不下 Daily Journal 功能噢，嘿嘿
 ** [[R7000P]]相关
