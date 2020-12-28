@@ -10,9 +10,10 @@
 :PROPERTIES:
 :todo: 1609126882903
 :END:
-** TODO 王爽的yubikey 两步认证？
+** DONE 王爽的yubikey 两步认证？
 :PROPERTIES:
 :todo: 1609126903015
+:done: 1609146908029
 :END:
 *** https://portal.microsofticm.com/imp/v3/incidents/details/219979388/home
 ** TODO PKT
