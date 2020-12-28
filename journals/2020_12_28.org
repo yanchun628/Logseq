@@ -6,9 +6,10 @@
 ** [#B]
 *** PLEASE REMOVE 的判定
 *** 单独ping oce from service auth to complete yubikey enrollment
-** TODO 陆的电脑
+** DONE 陆的电脑
 :PROPERTIES:
 :todo: 1609126882903
+:done: 1609146909228
 :END:
 ** DONE 王爽的yubikey 两步认证？
 :PROPERTIES:
@@ -16,11 +17,16 @@
 :done: 1609146908029
 :END:
 *** https://portal.microsofticm.com/imp/v3/incidents/details/219979388/home
-** TODO PKT
+** DONE PKT
 :PROPERTIES:
 :todo: 1609129098400
+:done: 1609146910777
 :END:
 ** TODO Unknown 邮件
 :PROPERTIES:
 :todo: 1609131791855
+:END:
+** TODO 
+:PROPERTIES:
+:todo: 1609146921207
 :END:
