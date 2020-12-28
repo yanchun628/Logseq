@@ -5,6 +5,7 @@
 *** 前一阵的另外一个梦 - 去了威海，在一海角上竟然能直接看到海对面的雪山，我当时以为是长白山……
 ** [#B]
 *** PLEASE REMOVE 的判定
+*** 单独ping oce from service auth to complete yubikey enrollment
 ** TODO 陆的电脑
 :PROPERTIES:
 :todo: 1609126882903
