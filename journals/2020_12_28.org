@@ -28,7 +28,7 @@
 :done: 1609221764413
 :END:
 *** Contact form类的再整理一下发给印度
-** TODO 考勤 [[Dec 30th, 2020]] 
+** TODO 考勤 [[Dec 30th, 2020]] [[Dec 31st, 2020]] 
 SCHEDULED: <2020-12-31 Thu>
 ** DONE 春节休假调查
 :PROPERTIES:
