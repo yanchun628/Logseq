@@ -4,7 +4,7 @@
 *** 又梦见辛老师了，嘿嘿
 *** 前一阵的另外一个梦 - 去了威海，在一海角上竟然能直接看到海对面的雪山，我当时以为是长白山……
 ** [#B] [[Dec 30th, 2020]]
-*** PLEASE REMOVE 的判定/
+*** PLEASE REMOVE 的判定
 *** 单独ping oce from service auth to complete yubikey enrollment
 ** DONE 陆的电脑
 :PROPERTIES:
