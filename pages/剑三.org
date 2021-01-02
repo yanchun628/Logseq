@@ -5,7 +5,7 @@
 ** https://www.jx3box.com/bps/?pid=18854#/
 *** 焚影pve
 ** #单刷
-*** List
+*** *List*
 **** 烛龙
 **** 皇宫
 **** 大明宫-剑圣
