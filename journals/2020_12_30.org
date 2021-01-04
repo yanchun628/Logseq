@@ -4,7 +4,10 @@
 :PROPERTIES:
 :done: 1609319674192
 :END:
-** TODO 调查一下号价 -一代金纯阳成男
+** DONE 调查一下号价 -一代金纯阳成男
+:PROPERTIES:
+:done: 1609725679685
+:END:
 *** 狐金青盒 3900
 **** +我就卖个3599吧+
 *** https://jx3sh.com/booking.php
