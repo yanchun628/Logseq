@@ -3,5 +3,5 @@
 ** https://flomoapp.com/mine?
 
 ** 手机号注册
-** 浏览器插件
+** 浏览器插件 - save text to flomo
 *** https://support.qq.com/products/297045/faqs/85323
