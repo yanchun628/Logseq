@@ -2,6 +2,9 @@
 
 ** #剑三
 *** TODO 刀娘的 todo list
+:PROPERTIES:
+:id: 5ff2722b-c976-4e2a-9553-fb3bf1672922
+:END:
 **** 外观
 ***** 樱花盒
 ****** 商城头675号
