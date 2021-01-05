@@ -34,6 +34,8 @@
 ***** https://www.bilibili.com/video/BV1m7411M7Cg/?spm_id_from=333.788.recommend_more_video.0
 **** 熟悉技能
 ***** 霸刀山庄贴吧 冰帝
+***** b站收藏 霸刀宏
+****** 监测上将僵直
 **** 调试插件
 ***** 血条
 ***** 字体
