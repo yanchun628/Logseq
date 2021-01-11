@@ -3,3 +3,13 @@
 ** [[Jan 13th, 2021]]  收周一周二的unknown
 *** 10472414462869587 问
 ** #剑三 盛大版残端 私服
+** TODO today
+:PROPERTIES:
+:todo: 1610338915831
+:END:
+*** 排班问ok了
+*** 发kpi
+*** 配置机器
+*** 给印度发
+**** contact form
+**** idfcbank 的phish
