@@ -9,5 +9,5 @@
 ***** 注释：servername 不要分号后面的，database name在option 里面选
 ** Yuchao的优先级问题
 *** From AssignQueue.sql
-****
+**** 说明这个子表也是生成的
 **** HCPhish>AdminFn>UserAtpPhish>UserEopPhish>AdminFP>UserAtpFn
