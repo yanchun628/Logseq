@@ -10,5 +10,5 @@
 ** Yuchao的优先级问题
 *** From AssignQueue.sql
 **** 说明这个子表也是生成的
-**** HCPhish>AdminFn>UserAtpPhish>UserEopPhish>AdminFP>UserAtpFn
+**** HCPhishQuarantine>AdminFn>UserAtpPhish>UserEopPhish>AdminFP>UserAtpFn
 ***** EOP = Exchange Online Protection
