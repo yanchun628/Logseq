@@ -8,4 +8,4 @@
 **** [[https://cdn.logseq.com/%2F12dfa1fb-d781-4243-9803-cbd9f4814c27d3364eb4-0dbe-4c76-8aed-022c09ef7e3b2021_01_26_image.png?Expires=4765243760&Signature=hgYlH36sEfRnpfyh0QKNZiNNlLtKi92Gs-QRAIACHmx7CbLvo-FEq4lOwo9ftpAvWwKe0wX14oj01E35WkeGFx1DXc4fwrPOER0SSU-wYX1lxGlnlvScvclvUGRN5NwLhgh~VeRt~TgpKXMjQq9vWi7xia~vztmqt3F0j383NT9wpRPywVR-0~8X5ZfK7vsbAx8Kv6kVs5WZcmGqljc099UKhvvQ8KI8wJP5vKVZDKTG0t927R-w9uyfWBPLPLEQdbQH6Kpiwij1EINqBKY~y1SZbDhrOzFvpouXZDY9bPYCZqfwPVObTLbi1PxV6iDZ6mNWn8TIK3klACh6Xt6-wA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2021_01_26_image.png]]{:height 326, :width 578}
 ***** 注释：servername 不要分号后面的，database name在option 里面选
 ** Yuchao的优先级问题
-***
+*** HCPhish>Ad
