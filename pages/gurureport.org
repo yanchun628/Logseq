@@ -12,6 +12,7 @@
 **** 找相同的
 *** VendorManualGrade
 *** Cyren
+**** https://microsoft.sharepoint.com/teams/GRC_OfficeHours/O365%20GRC%20Review%20Dcouments/Forms/AllItems.aspx?id=%2Fteams%2FGRC%5FOfficeHours%2FO365%20GRC%20Review%20Dcouments%2FLibrary%20of%20Reviews%2FSubmitted%20for%20Review%2FRecordings%2F08%2D27%2D2018%20O365%20URL%20Phishing%20Detection%20with%20CYREN%20%2D%20Full%2Emp4&parent=%2Fteams%2FGRC%5FOfficeHours%2FO365%20GRC%20Review%20Dcouments%2FLibrary%20of%20Reviews%2FSubmitted%20for%20Review%2FRecordings&RootFolder=%2Fteams%2FGRC%5FOfficeHours%2FO365%20GRC%20Review%20Dcouments%2FLibrary%20of%20Reviews%2FSubmitted%20for%20Review%2FRecordings&FolderCTID=0x01200047EC8DB1041BB446A1EC7EA48A283983
 **** URL crawling for phish detection
 *** Sonar
 ** Yuchao的优先级问题
