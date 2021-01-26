@@ -1,4 +1,4 @@
 #+TITLE: GuruReport
 
-** ipantispamcorekusto.westcentralus: Antispam
-*** 数据源
+** 数据源
+*** ipantispamcorekusto.westcentralus: Antispam
