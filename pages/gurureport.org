@@ -11,7 +11,7 @@
 *** 从AssignReason入手
 **** 找相同的
 *** VendorManualGrade
-*** Cyren?
+*** Cyren/Sonar?
 ** Yuchao的优先级问题
 *** From AssignQueue.sql
 **** 说明这个子表也是生成的
