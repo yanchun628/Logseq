@@ -21,6 +21,7 @@ https://www.cyren.com/security-center/cyren-ip-reputation-check
 *** BCL
 *** Analyst
 *** BIMP
+*** DBL
 ** Yuchao的优先级问题
 *** From AssignQueue.sql
 **** 说明这个子表也是生成的
