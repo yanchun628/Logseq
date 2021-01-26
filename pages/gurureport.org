@@ -13,6 +13,7 @@
 *** VendorManualGrade
 *** Cyren
 **** 微软的另一家vendor
+https://www.cyren.com/security-center/cyren-ip-reputation-check
 **** https://microsoft.sharepoint.com/teams/GRC_OfficeHours/O365%20GRC%20Review%20Dcouments/Forms/AllItems.aspx?id=%2Fteams%2FGRC%5FOfficeHours%2FO365%20GRC%20Review%20Dcouments%2FLibrary%20of%20Reviews%2FSubmitted%20for%20Review%2FRecordings%2F08%2D27%2D2018%20O365%20URL%20Phishing%20Detection%20with%20CYREN%20%2D%20Full%2Emp4&parent=%2Fteams%2FGRC%5FOfficeHours%2FO365%20GRC%20Review%20Dcouments%2FLibrary%20of%20Reviews%2FSubmitted%20for%20Review%2FRecordings&RootFolder=%2Fteams%2FGRC%5FOfficeHours%2FO365%20GRC%20Review%20Dcouments%2FLibrary%20of%20Reviews%2FSubmitted%20for%20Review%2FRecordings&FolderCTID=0x01200047EC8DB1041BB446A1EC7EA48A283983
 **** URL crawling for phish detection
 [[https://cdn.logseq.com/%2F12dfa1fb-d781-4243-9803-cbd9f4814c27d21bb389-5466-4a02-a778-ac64ab0ea0ca2021_01_26_image.png?Expires=4765248775&Signature=JGyARc9OSxh5c-txAPHz8m2TkmzZdWInKTWerf09Tr4aERH2p61HtxhBakFH7BXua6ggBGwDHkqZv4Mqt4fjTVYZeqPhQxG63Vu7xiOD8JT6ISAjvIwzmyomfphLWLTKfkwyZLHF5518zTH2tatEoNdij0l76V-oiZbzLAqyXivHfDzFixt-uHtHMxysU6d73zjSqBB4MvC7knL6cD8mFlosdhJESHneLxQr3g2hMrHPfk9x6r9i4ViapY9qUWoNQYhyXfsT-Jx9Y94LGS~MnEtdd-WmhtDN8RzUD4m80V1KjBSoR8W0-PYDrXR3K7AfcZYEIYD96GFv4zevH1efLg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA][2021_01_26_image.png]]
