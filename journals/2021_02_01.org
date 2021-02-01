@@ -5,3 +5,4 @@
 :PROPERTIES:
 :todo: 1612161292110
 :END:
+** [[Feb 2nd, 2021]] SSOC 培训
