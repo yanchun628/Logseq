@@ -1,7 +1,7 @@
 #+TITLE: Feb 1st, 2021
 
 ** [[KPI]] 0126 yancwa-zhenqs
-** TODO QA 流程
+** TODO QA 流程 收集存放——review——处理反馈
 :PROPERTIES:
 :todo: 1612161292110
 :END:
