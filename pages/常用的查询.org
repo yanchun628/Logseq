@@ -2,4 +2,4 @@
 
 ** WHERE LIKE
 
-*** select * from [表名] where [字段] like '%张三%'
+**
