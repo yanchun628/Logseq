@@ -1,0 +1,5 @@
+#+TITLE: 常用的查询
+
+** WHERE LIKE
+
+*** select * from [表名] where [字段] like '%张三%'
