@@ -1,6 +1,5 @@
 #+TITLE: GuruReport
 
-** [[常用的查询]]
 ** 数据源
 *** 来自不同的数据源，我们目前用的只有与KES相关的
 *** ipantispamcorekusto.westcentralus: Antispam
