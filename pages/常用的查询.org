@@ -3,4 +3,4 @@
 ** WHERE LIKE
 
 ** LEFT JOIN
-*** <c
+*** <code
