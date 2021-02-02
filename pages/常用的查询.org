@@ -4,7 +4,8 @@
 
 ** LEFT JOIN
 ***
-```SELECT SubmissionView.Id, GradeView.LastUpdatedBy, GradeView.LabelType, GradeView.KesMailId
+```
+SELECT SubmissionView.Id, GradeView.LastUpdatedBy, GradeView.LabelType, GradeView.KesMailId
    
   FROM [dbo].[SubmissionView]
   LEFT JOIN [dbo].[GradeView]
