@@ -3,4 +3,12 @@
 ** WHERE LIKE
 
 ** LEFT JOIN
-*** <code
+***
+```SELECT SubmissionView.Id, GradeView.LastUpdatedBy, GradeView.LabelType, GradeView.KesMailId
+   
+  FROM [dbo].[SubmissionView]
+  LEFT JOIN [dbo].[GradeView]
+
+  ON SubmissionView.Id=GradeView.KesMailId
+  WHERE [Sender] like '%epfuneral@eastlink.ca%'
+```
