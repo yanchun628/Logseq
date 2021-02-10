@@ -1,3 +1,11 @@
 #+TITLE: Feb 10th, 2021
 
-** 
+** #QA
+*** TODO new goodsender tag tracking
+:PROPERTIES:
+:todo: 1612938641900
+:END:
+*** TODO urltracker 再查一下 怎么只有美国的
+:PROPERTIES:
+:todo: 1612938650608
+:END:
