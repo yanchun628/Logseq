@@ -16,4 +16,6 @@ Edited​[2/13 12:10 AM] Yuanfei Wang
 ​[2/13 12:27 AM] Yuanfei Wang
     如果是我理解错了就坠吼了……
 <https://teams.microsoft.com/l/message/19:9268e0678e654fc1a8965e739a1859ec@thread.skype/1613146099851?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;groupId=2e06e852-2e42-4acb-a366-5df01ee87a68&amp;parentMessageId=1613146099851&amp;teamName=Suzhou Life&amp;channelName=General&amp;createdTime=1613146099851>
-**
+** step 1
+*** sspm 改密码
+*** 电话认证
