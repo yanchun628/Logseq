@@ -13,3 +13,16 @@ SELECT SubmissionView.Id, GradeView.LastUpdatedBy, GradeView.LabelType, GradeVie
   ON SubmissionView.Id=GradeView.KesMailId
   WHERE [Sender] like '%epfuneral@eastlink.ca%'
 ```
+*** SELECT 
+AssignInfo.KesMailId, 
+AssignInfo.AssignTo, 
+AssignInfo.AssignReason,
+SubmissionViewConsumer.Id,
+SubmissionViewConsumer.FeedCategory
+
+   
+  FROM [dbo].[SubmissionViewConsumer] 
+  LEFT JOIN [dbo].[AssignInfo]
+
+  ON SubmissionViewConsumer.Id = AssignInfo.KesMailId
+  Where AssignTo IS NOT NULL
