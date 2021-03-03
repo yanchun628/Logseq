@@ -9,7 +9,13 @@
 :done: 1614765885509
 :END:
 *** 电光幻影
-*** https://necromanov.wordpress.com/2021/02/26/2077/
+*** DONE https://necromanov.wordpress.com/2021/02/26/2077/
+:PROPERTIES:
+:done: 1614765889728
+:END:
 新文章 2077
 *** 妇女参政论者
-*** Manacled - lofter hp 同人
+*** DONE Manacled - lofter hp 同人
+:PROPERTIES:
+:done: 1614765893051
+:END:
