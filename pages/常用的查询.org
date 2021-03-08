@@ -26,3 +26,16 @@ SubmissionViewConsumer.FeedCategory
 
   ON SubmissionViewConsumer.Id = AssignInfo.KesMailId
   Where AssignTo IS NOT NULL
+** Left join
+*** SELECT 
+AssignInfo.KesMailId, 
+AssignInfo.AssignTo, 
+AssignInfo.AssignReason,
+SubmissionViewConsumer.Id,
+SubmissionViewConsumer.FeedCategory
+
+   
+  FROM [dbo].[SubmissionViewConsumer]
+  LEFT JOIN [dbo].[AssignInfo]
+
+  ON SubmissionViewConsumer.Id = AssignInfo.KesMailId
