@@ -39,3 +39,4 @@ SubmissionViewConsumer.FeedCategory
   LEFT JOIN [dbo].[AssignInfo]
 
   ON SubmissionViewConsumer.Id = AssignInfo.KesMailId
+** ORDER BY column_name,column_name ASC|DESC
