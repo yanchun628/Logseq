@@ -1,0 +1,16 @@
+#+TITLE: Mar 23rd, 2021
+
+** gpupdate
+
+kes transitioning
+more attention
+
+review the metrics for slas
+
+summary
+
+most important -first touch (response time)
+
+Consumer FP flow chart is working good
+
+sonar mistake report
