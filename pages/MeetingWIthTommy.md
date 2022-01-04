@@ -7,4 +7,4 @@
 	- The first one is about the team expansion plan- you may know that Last December we suspended adding new resources to the team. According to our previous grading team scaling timeline - we will restore increasing HCs starting from this week.
 		- Just would like to confirm with you if this plan and budget is still valid, so that
 	- The Bulk Subtypes update -
-		- After several weeks of testing, I think we have collected enough data to test the effectiveness of the new rules
+		- After several weeks of testing, I think we have collected enough data to test the effectiveness of the new rules.
