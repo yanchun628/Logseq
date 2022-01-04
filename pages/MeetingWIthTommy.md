@@ -6,3 +6,4 @@
 - Take a look at our next steps
 	- The first one is about the team expansion plan- you may know that Last December we suspended adding new resources to the team. According to our previous grading team scaling timeline - we will restore increasing HCs starting from this week.
 	- Just would like to confirm with you if this plan and budget is still valid, so that
+	-
