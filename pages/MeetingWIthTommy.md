@@ -1,5 +1,5 @@
 - [[Jan 4th, 2022]]
 	- First lets review the grading team situation during the past two weeks of Christmas and new year holiday
 		- We arranged some additional backup resources on holiday to maintain the total output above 500k. It even increased a lot from 500 - five-fifty last week, Because we have completed the latest batch of training
-		- For the analyst team, there are 4 new hires starting training and
+		- For the analyst team, there are 4 new hires starting training and 4 existing analysts has stated smart screen training
 -
