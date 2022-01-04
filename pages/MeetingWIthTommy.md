@@ -1,3 +1,3 @@
 - [[Jan 4th, 2022]]
-	- First I would like to review the team situation during the past two weeks of Christmas and new year holiday
+	- First lets review the team situation during the past two weeks of Christmas and new year holiday
 -
