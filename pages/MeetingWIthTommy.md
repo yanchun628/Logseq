@@ -4,4 +4,4 @@
 		- For the analyst team, there are 4 new hires starting training and 4 existing analysts has stated smart screen training
 	- Besides, we met a blocking issue during last two weeks- alias creation got stuck due to the approvers were out of office
 - Take a look at our next steps
-	- The first one is about the team expansion plan- you may know that Last December we suspended add
+	- The first one is about the team expansion plan- you may know that Last December we suspended adding new resources to the team
