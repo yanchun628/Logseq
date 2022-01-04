@@ -1,4 +1,4 @@
 - [[Jan 4th, 2022]]
 	- First lets review the grading team situation during the past two weeks of Christmas and new year holiday
-		- We arranged some additional
+		- We arranged some additional backup resources on holiday
 -
