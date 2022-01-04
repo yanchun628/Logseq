@@ -1,2 +1,3 @@
 - [[Jan 4th, 2022]]
-	-
+	- First I would like to review the team during the past two weeks of vacation
+-
