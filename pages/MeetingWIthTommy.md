@@ -9,8 +9,8 @@
 	- The Bulk Subtypes update -
 		- After several weeks of testing, I think we have collected enough data to test the effectiveness of the new rules.  I will start discussing our follow-up plans with Bob
 - [[Jan 11th, 2022]]
-	- First, let's review the follow-up of several things we mentioned last week
-		- All new resources planned for this month have been on boarded. and we adjusted the output baseline according
+	- First, one fllowollow-up of several things we mentioned last week
+		- All new resources planned for this month have been on boarded. and we adjusted the output baseline accordingly
 	- Alias expiration
 		- We have noticed that dozens of graders' Alias will expire next month.
 		- As far as I know, the FTE manager will receive an extension request a month before
