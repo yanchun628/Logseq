@@ -10,5 +10,5 @@
 		- After several weeks of testing, I think we have collected enough data to test the effectiveness of the new rules.  I will start discussing our follow-up plans with Bob
 - [[Jan 11th, 2022]]
 	- First, let's review the follow-up of several things we mentioned last week
-		-
+	- Chinese new year
 -
