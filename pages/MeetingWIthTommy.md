@@ -16,5 +16,5 @@
 		- As far as I know, the FTE manager will receive an extension request a month before
 	- The first week of February is the Chinese New Year holiday.
 		- Many graders in China team will be out of office and spending the holiday with their families.
-		- This will have some slight impact on our production, but we've already started making plans
+		- This will have some impact on our production, but we've already started making plans
 -
