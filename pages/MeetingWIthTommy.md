@@ -12,5 +12,5 @@
 	- First, let's review the follow-up of several things we mentioned last week
 	- Chinese new year holiday
 	- Alias expiration
-		- We noticed that dozens of graderAlias will expire next month
+		- We have noticed that dozens of graders' Alias will expire next month
 -
