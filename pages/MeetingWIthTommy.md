@@ -8,3 +8,5 @@
 		- Just would like to confirm with you if this plan and budget is still valid, so that
 	- The Bulk Subtypes update -
 		- After several weeks of testing, I think we have collected enough data to test the effectiveness of the new rules.  I will start discussing our follow-up plans with Bob
+- [[Jan 11th, 2022]]
+	-
