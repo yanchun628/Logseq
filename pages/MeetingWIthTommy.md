@@ -9,6 +9,7 @@
 	- The Bulk Subtypes update -
 		- After several weeks of testing, I think we have collected enough data to test the effectiveness of the new rules.  I will start discussing our follow-up plans with Bob
 - [[Jan 11th, 2022]]
+	- hope everything is good with you
 	- First, here is one follow-up for last week
 		- All new resources planned for this month have been on boarded. and we adjusted the output baseline accordingly
 	- Alias expiration
