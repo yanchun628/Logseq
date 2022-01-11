@@ -12,5 +12,6 @@
 	- First, let's review the follow-up of several things we mentioned last week
 	- Chinese new year holiday
 	- Alias expiration
-		- We have noticed that dozens of graders' Alias will expire next month
+		- We have noticed that dozens of graders' Alias will expire next month.
+		- As far as I know, the fte manager will receive an extension request a month before
 -
