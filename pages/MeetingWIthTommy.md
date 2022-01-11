@@ -18,4 +18,4 @@
 	- The first week of February is the Chinese New Year holiday.
 		- Many graders in China team will be out of office and spending the holiday with their families.
 		- This will have some impact on the production, but we've already got a back up plans to keep 24/7 coverage and maintain a stable total output
--
+	- Conflict reduction / guideline
