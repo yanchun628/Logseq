@@ -15,5 +15,6 @@
 		- We have noticed that dozens of graders' Alias will expire next month.
 		- As far as I know, the FTE manager will receive an extension request a month before
 	- The first week of February is the Chinese New Year holiday.
-		- Many graders in China team will be out of office and spending the holiday with their families
+		- Many graders in China team will be out of office and spending the holiday with their families.
+		- This will have some slight impact on our production
 -
