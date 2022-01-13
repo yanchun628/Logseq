@@ -10,6 +10,7 @@
 -
 - Update
 	- admin urls - on hold
+		- kes update
 	- **NDR**
 	- hvd
 		- collect and summriaze ids
