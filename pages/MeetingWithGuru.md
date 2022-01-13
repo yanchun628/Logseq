@@ -15,3 +15,4 @@
 		- collect and summriaze ids
 		-
 	- guidline
+	- new graders
