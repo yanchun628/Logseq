@@ -1,1 +1,1 @@
-- Summarize a general rule about
+- Summarize a general rule about the priority of different categories
