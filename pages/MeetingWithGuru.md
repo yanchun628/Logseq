@@ -9,4 +9,5 @@
 	- Knowledge Management #团队Wiki
 -
 - Update
-	- admin
+	- admin urls - on hold
+	- NDR
