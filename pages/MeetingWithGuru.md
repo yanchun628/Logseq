@@ -21,5 +21,6 @@
 		- TODO start date and production date
 	- sending alert
 	- TODO **latency**
+		- got data from yuchao
 	- TODO Overlap study result
 		- 60% target
