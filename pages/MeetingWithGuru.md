@@ -1,5 +1,5 @@
 - The root cause of the conflicts
 	- overlaps in current guideline structure
-	- The email meets multiple standards for different lable at the same time
+	- The email meets multiple standards for different labels at the same time
 - Although we can also write extremely detailed guidelines and try to cover as much cases as we can
 - Summarize a general rule about the priority of different categories
