@@ -3,5 +3,5 @@
 	- The email meets multiple standards for different labels at the same time
 		- Usually in this case we can only rely on the grader's own experience and judgment
 - Although we can also write extremely detailed guidelines and try to cover as much scenario as we can
-	- This will make the guideline bloated
+	- It will make the guideline bloated
 - Summarize a general rule about the priority of different categories
