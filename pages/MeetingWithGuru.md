@@ -1,5 +1,6 @@
 - The root cause of the conflicts
 	- overlaps in current guideline structure
 	- The email meets multiple standards for different labels at the same time
-- Although we can also write extremely detailed guidelines and try to cover as much cases as we can
+		- Usually in this case we can only rely on the grader's own experience and judgment
+- Although we can also write extremely detailed guidelines and try to cover as much scenario as we can
 - Summarize a general rule about the priority of different categories
