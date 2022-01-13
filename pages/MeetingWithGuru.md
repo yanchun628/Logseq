@@ -1,0 +1,1 @@
+- Summarize a general rule about
