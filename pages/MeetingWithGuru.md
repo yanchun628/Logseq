@@ -1,3 +1,4 @@
 - The root cause of the conflicts
 	- overlaps in current guideline structure
+- Although we can also write extremely detailed guidelines
 - Summarize a general rule about the priority of different categories
