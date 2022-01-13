@@ -7,3 +7,5 @@
 		- It will make the guideline bloated
 	- Summarize a general rule about the priority of different categories
 	- Knowledge Management #团队Wiki
+-
+- Update
