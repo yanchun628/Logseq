@@ -1,2 +1,3 @@
 - The root cause of the conflicts
+	- overlaps in current guideline structure
 - Summarize a general rule about the priority of different categories
