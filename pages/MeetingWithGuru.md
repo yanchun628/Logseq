@@ -16,4 +16,4 @@
 		-
 	- guidline
 	- new graders / senior graders
-		- with yuchao
+		- with yuchao grader
