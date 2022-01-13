@@ -11,15 +11,15 @@
 - Update
 	- admin urls - on hold
 		- kes update
-	- **NDR**
+	- TODO **NDR**
 	- hvd
-		- collect and summriaze ids
+		- TODO collect and summriaze ids
 		-
 	- guidline
 	- new graders / senior graders
 		- with yuchao grader
-		- start date and production date
+		- TODO start date and production date
 	- sending alert
-	- **latency**
-	- Overlap study result
+	- TODO **latency**
+	- TODO Overlap study result
 		- 60% target
