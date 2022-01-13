@@ -11,3 +11,7 @@
 - Update
 	- admin urls - on hold
 	- NDR
+	- hvd
+		- collect and summriaze ids
+		-
+	- guidline
