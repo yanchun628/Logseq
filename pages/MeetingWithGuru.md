@@ -21,3 +21,5 @@
 		- start date and production date
 	- sending alert
 	- **latency**
+	- Overlap study result
+		- 60% target
