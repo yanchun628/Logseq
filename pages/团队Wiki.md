@@ -1,1 +1,1 @@
-- news board - 存放近期的知识更新
+- news board - 存放近期的知识更新/需要注意的规则 比如 fast tab
