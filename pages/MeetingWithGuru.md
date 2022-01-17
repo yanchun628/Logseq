@@ -11,7 +11,7 @@
 - Update
 	- admin urls - on hold
 		- kes update
-	- TODO **NDR**
+	- DONE **NDR**
 	- hvd
 		- TODO collect and summriaze ids
 		-
@@ -20,7 +20,7 @@
 		- with yuchao grader
 		- TODO start date and production date
 	- sending alert
-	- TODO **latency**
+	- DONE **latency**
 		- got data from yuchao
 	- TODO Overlap study result
 		- 60% target
