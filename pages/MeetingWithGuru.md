@@ -22,5 +22,5 @@
 	- sending alert
 	- DONE **latency**
 		- got data from yuchao
-	- TODO Overlap study result
+	- DONE Overlap study result
 		- 60% target
