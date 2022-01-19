@@ -7,6 +7,8 @@
 		- It will make the guideline bloated
 	- Summarize a general rule about the priority of different categories
 	- Knowledge Management #团队Wiki
+- [[Jan 19th, 2022]]
+	- 加大sender domain的比重？
 -
 - Update
 	- admin urls - on hold
