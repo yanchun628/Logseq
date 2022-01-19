@@ -39,7 +39,7 @@
 - Different page for different team
 -
 - For work items
-	- based on team leads， 不同的team leads
+	- based on team leads， 不同的team leads 管不同的 risk grader
 	- find scenarios
 	- every lead 
 	  presentation
