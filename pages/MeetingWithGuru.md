@@ -39,8 +39,10 @@
 - Different page for different team
 -
 - For work items
+	- 需要知道 team leads / graders 做了什么
 	- based on team leads， 不同的team leads 管不同的 risk grader
 		- find scenarios / one on one with graders
+	-
 	- every lead 
 	  presentation
 	- set okr for team leads
