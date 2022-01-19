@@ -28,4 +28,5 @@
 - [[Jan 19th, 2022]]
 	- 我们更想清楚地知道 grader labeled spam 邮件到底会发生什么？ 加大sender domain的比重
 	- 还有一个之前的fp 例子
--
+	- General rule
+	- what kind of standpoint
