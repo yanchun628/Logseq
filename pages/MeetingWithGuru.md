@@ -40,7 +40,7 @@
 -
 - For work items
 	- based on team leads， 不同的team leads 管不同的 risk grader
-	- find scenarios
+		- find scenarios / one on one with graders
 	- every lead 
 	  presentation
 	- set okr for team leads
