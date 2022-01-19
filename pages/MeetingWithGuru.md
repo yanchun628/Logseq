@@ -39,3 +39,10 @@
 - Different page for different team
 -
 - For work items
+	-
+	- find scenarios
+	- every lead 
+	  presentation
+	- set okr for team leads
+	- performance for team leads
+	- also review the effectivenness of overlap study
