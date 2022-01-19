@@ -29,3 +29,4 @@
 		- 60% target
 - indexible
 - knowledge base
+- information sharing
