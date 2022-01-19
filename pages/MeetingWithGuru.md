@@ -39,7 +39,7 @@
 - Different page for different team
 -
 - For work items
-	- 分配给team leads 而不是
+	- based on team leads， 不同的team leads
 	- find scenarios
 	- every lead 
 	  presentation
