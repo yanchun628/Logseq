@@ -7,23 +7,25 @@
 		- It will make the guideline bloated
 	- Summarize a general rule about the priority of different categories
 	- Knowledge Management #团队Wiki
+-
+	- Update
+		- admin urls - on hold
+			- kes update
+		- DONE **NDR**
+		- hvd
+			- DONE collect and summriaze ids
+			-
+		- guidline
+		- new graders / senior graders
+			- with yuchao grader
+			- TODO start date and production date
+		- sending alert
+		- DONE **latency**
+			- got data from yuchao
+		- DONE Overlap study result
+			- 60% target
+-
 - [[Jan 19th, 2022]]
 	- 我们更想清楚地知道 grader labeled spam 邮件到底会发生什么？ 加大sender domain的比重
 	- 还有一个之前的fp 例子
 -
-- Update
-	- admin urls - on hold
-		- kes update
-	- DONE **NDR**
-	- hvd
-		- TODO collect and summriaze ids
-		-
-	- guidline
-	- new graders / senior graders
-		- with yuchao grader
-		- TODO start date and production date
-	- sending alert
-	- DONE **latency**
-		- got data from yuchao
-	- DONE Overlap study result
-		- 60% target
