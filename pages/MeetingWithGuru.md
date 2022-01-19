@@ -27,6 +27,3 @@
 		- got data from yuchao
 	- DONE Overlap study result
 		- 60% target
-- indexible
-- knowledge base
-- information sharing
