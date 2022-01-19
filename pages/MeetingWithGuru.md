@@ -30,3 +30,4 @@
 	- 还有一个之前的fp 例子
 	- General rule
 	- From which stand point
+	- simply listMethodology
