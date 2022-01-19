@@ -33,3 +33,5 @@
 	- don't prefer simply list all detailed scenarios.
 		- Methodology
 	- What kind of dilemma do graders face?
+-
+- ![2022_01_19_image.png](https://cdn.logseq.com/%2Fe665ccdc-ca08-4e13-adf4-2c2994386a2b3d6ce8ad-868c-49b8-b854-2a2f4b4cfa842022_01_19_image.png?Expires=4796166521&Signature=N4SVRe~wB~R~mjojfAc3zUOv7Fuo~T7S7HFjl4A0GTHjaaoVUeSZwYqRl2OCXeRigNUnYFtQIloKzmr1H3677XFW2a2TSzsyYYGpJQJVv4WSgmEZ0O7KiE6MBOZiTnig6QhTjOT6NNOvrTqAahJvQUz4p8N-la0iJXiG-aBueV6mtzFltQqIiJUPbXyVv8okHYtN4qB8T0BlAju2BWC3iROAxpXUaMCMioqigrW4xnZg2fvEIIxnwgYj0lJuCg7uX9PuMml4jFOUy9MendNTZdwyUKUzk38vXkDsl88FOvw5NvxaAYVvc5~e64FzbZi6S6p~Pg-xnoYP6VF~qdBr2Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
