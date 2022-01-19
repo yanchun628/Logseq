@@ -32,3 +32,4 @@
 	- From which stand point
 	- don't prefer simply list all detailed scenarios.
 		- Methodology
+	- What kind of dilemma do graders face?
