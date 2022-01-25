@@ -20,3 +20,5 @@
 		- This will have some impact on the production, but we've already got a back up plans to keep 24/7 coverage and maintain a stable total output
 	- Conflict reduction / guideline redesigning
 		- Guru has arranged a meeting for our team leads with spam analyst Mayur and Micheal
+- [[Jan 25th, 2022]]
+	-
