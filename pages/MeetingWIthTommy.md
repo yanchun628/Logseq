@@ -21,4 +21,6 @@
 	- Conflict reduction / guideline redesigning
 		- Guru has arranged a meeting for our team leads with spam analyst Mayur and Micheal
 - [[Jan 25th, 2022]]
+	- smartscreen training finished
+	- resource / covid situation in hyd - no impact
 	-
