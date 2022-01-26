@@ -26,4 +26,4 @@
 		- 60% target
 - [[Jan 21st, 2022]]
 - [[Jan 26th, 2022]]
-	- 有关 translate function 的
+	- 有关 translate function 的 conflict
