@@ -33,8 +33,10 @@
 		- 有关update 没有影响grading pipeline
 		- 昨天的spike
 	- 有关 metrics / pivot
+		- 在 hyd team 已经跟他们说过了， pending their 讨论
 		- 认领 各自的 high risk
+		- 今晚更新
 	- guideline update
-		- 进展
+		- 进展 - team wiki & data base
 		- 与 high risk grader 的冲突
 		- 今晚还有一次会议
