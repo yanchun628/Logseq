@@ -28,6 +28,7 @@
 - [[Jan 28th, 2022]]
 	- overlap study
 		- risk score? 有关邮件数特别少的
+		- Polarization
 	- Action URL
 		- 有关update 没有影响grading pipeline
 		- 昨天的spike
