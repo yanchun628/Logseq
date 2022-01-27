@@ -25,5 +25,6 @@
 	- DONE Overlap study result
 		- 60% target
 - [[Jan 21st, 2022]]
-- [[Jan 26th, 2022]]
-	- 有关 translate function 的 conflict
+- [[Jan 28th, 2022]]
+	- Action URL
+		- 有关update 之前无法正常更新 kes dev qing 刚刚
