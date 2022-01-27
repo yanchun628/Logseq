@@ -31,5 +31,5 @@
 		- 昨天的spike
 	- 有关 metrics / pivot
 		- 认领 各自的 high risk
-	- guideline update dede wenti
+	- guideline upda
 	-
