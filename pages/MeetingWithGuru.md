@@ -30,7 +30,7 @@
 		- risk score? 有关邮件数特别少的
 		- Polarization
 	- Action URL
-		- 有关update 没有影响grading pipeline
+		- 有关update 没有影响grading pipeline 查看过changelog以后
 		- 昨天的spike
 	- 有关 metrics / pivot
 		- 在 hyd team 已经跟他们说过了， pending their 讨论
