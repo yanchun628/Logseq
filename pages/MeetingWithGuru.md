@@ -30,4 +30,5 @@
 		- 有关update 没有影响grading pipeline
 		- 昨天的spike
 	- 有关 metrics / pivot
-		- 认领
+		- 认领 各自的 high risk
+	-
