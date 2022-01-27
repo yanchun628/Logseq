@@ -32,4 +32,6 @@
 	- 有关 metrics / pivot
 		- 认领 各自的 high risk
 	- guideline update
-	-
+		- 进展
+		- 与 high risk grader 的冲突
+		- 今晚还有一次会议
