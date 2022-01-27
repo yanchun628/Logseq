@@ -29,4 +29,5 @@
 	- Action URL
 		- 有关update 没有影响grading pipeline
 		- 昨天的spike
-	- y
+	- 有关 metrics / pivot
+		- 认领
