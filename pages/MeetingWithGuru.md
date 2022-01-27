@@ -27,4 +27,5 @@
 - [[Jan 21st, 2022]]
 - [[Jan 28th, 2022]]
 	- Action URL
-		- 有关update 之前无法正常更新 kes dev qing 刚刚
+		- 有关update 没有影响grading pipeline
+		-
