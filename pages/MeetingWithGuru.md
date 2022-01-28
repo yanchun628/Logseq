@@ -40,6 +40,7 @@
 		- 进展 - team wiki & data base
 			- step by step ， not just announce the update
 			- twisting/ turning back graders' habit and knowledge
+			- 时间上的 wuxi joliday
 		- 与 high risk grader 的冲突
 		- 今晚还有一次会议
 	- 有关休假
