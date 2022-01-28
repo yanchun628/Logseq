@@ -38,7 +38,7 @@
 		- 今晚更新
 	- guideline update
 		- 进展 - team wiki & data base
-			- step by step
+			- step by step ， not just announce the update
 		- 与 high risk grader 的冲突
 		- 今晚还有一次会议
 	- 有关休假
