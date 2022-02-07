@@ -26,4 +26,5 @@
 - [[Feb 8th, 2022]]
 	- Silvan
 	- Analyst
+		- FP URL delist
 		-
