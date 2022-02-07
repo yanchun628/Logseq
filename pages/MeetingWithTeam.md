@@ -2,4 +2,4 @@
 	- 上周的url fp
 	- 印度 covid
 	- guideline update
-- Guidelines
+- Guideline
