@@ -23,4 +23,6 @@
 - [[Jan 25th, 2022]]
 	- smartscreen training finished
 	- resource / covid situation in hyd - no impact
-- [[Feb 7th, 2022]]
+- [[Feb 8th, 2022]]
+	- Silvan
+	- Analyst
