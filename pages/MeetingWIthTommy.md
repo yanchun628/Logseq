@@ -23,5 +23,4 @@
 - [[Jan 25th, 2022]]
 	- smartscreen training finished
 	- resource / covid situation in hyd - no impact
-	-
-	  TODO
+- [[Feb 7th, 2022]]
