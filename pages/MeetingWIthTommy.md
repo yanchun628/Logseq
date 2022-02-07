@@ -27,6 +27,6 @@
 	- Silvan
 	- Analyst
 		- FP URL delist
-		- analyst notice 到 spam - 不太可能
-			-
+		- 从analyst 到 grader
+			- analyst notice 到 spam - 不太可能
 		- 解答问题
