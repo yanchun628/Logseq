@@ -1,3 +1,3 @@
 - [[Feb 9th, 2022]]
 	- 有关feedback waiting for Alicia
-	-
+	- 信息的沟通
