@@ -36,4 +36,4 @@
 		- output in holiday
 		- resource
 		- interaction between grading team and analyst team
-			- I have discussed with several analysts to review our existing workflow
+			- I have discussed with several analysts and reviewed our existing workflow.
