@@ -41,5 +41,6 @@
 				- For example on the knowledge level - we have a regular meeting with the analyst team
 				- We can see all of these interactions are just single-directional that grading team is asking for help from analysts
 			- Make connections in the opposite direction
-			-
+				- for example
+			- External indicators will interfere with grader's judgment
 -
