@@ -35,7 +35,7 @@
 	- Agenda
 		- output in holiday
 		- resource
-			- 20 new graders have finished training and started
+			- 20 new graders have finished training and started production
 		- interaction between grading team and analyst team
 			- I have discussed with several analysts and reviewed our existing workflow. 
 			  And we find that the cooperation between the two teams is limited to a few aspects.
