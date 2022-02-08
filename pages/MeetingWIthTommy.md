@@ -38,7 +38,7 @@
 		- interaction between grading team and analyst team
 			- I have discussed with several analysts and reviewed our existing workflow. 
 			  And we find that the cooperation between the two teams is limited to a few aspects.
-				- For example on the knowledge level - we have a regular Q&A meeting with the analyst team
+				- For example on the knowledge level - we have a regular Q&A meeting with the analyst team to review graders' confusion during labelling and
 				- We can see all of these interactions are just single-directional that grading team is asking for help from analysts
 			- Make connections in the opposite direction
 				- for example The grader can check the effect of analyst rules in some way
