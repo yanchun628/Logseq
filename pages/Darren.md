@@ -1,3 +1,2 @@
-- indexible
-	- knowledge base
-	- information sharing
+- [[Feb 9th, 2022]]
+	-
