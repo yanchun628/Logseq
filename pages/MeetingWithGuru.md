@@ -56,4 +56,4 @@
 - [[Feb 9th, 2022]]
 	- Guideline 更新
 		- 进展 - announce to the team - 宽限时间
-	-
+	- 有关team wiki的 合规性
