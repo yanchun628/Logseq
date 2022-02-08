@@ -45,5 +45,6 @@
 			- Expand the scope of cooperation
 			- Make connections in the opposite direction
 				- for example The grader can check the effect of analyst rules in some way
+				- We have some ideas
 				- External indicators will interfere with grader's judgment
 -
