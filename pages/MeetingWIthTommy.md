@@ -33,4 +33,5 @@
 		- 解答问题
 			- 由grader 到 analyst
 	- Agenda
-		- output in hol
+		- output in holiday
+		- resourc
