@@ -1,4 +1,4 @@
 - [[Feb 9th, 2022]]
 	- 有关feedback waiting for Alicia
-	- 信息的沟通、 确保实施 implementation 比如 guideline update 确保大家都follow
+	- 信息的沟通、 确保实施 implementation/Execution 比如 guideline update 确保大家都follow
 	- 口头上的督促
