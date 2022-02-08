@@ -41,7 +41,8 @@
 				- For example on the knowledge level - we have a regular Q&A meeting with the analyst team to review and solve graders' confusion on specific cases during labeling
 				- They helped us a lot in the latest guideline update
 				- We found an important point that all these interactions are just single-directional that grading team is asking for help from analysts
+			- Expand the scope of cooperation
 			- Make connections in the opposite direction
 				- for example The grader can check the effect of analyst rules in some way
-			- External indicators will interfere with grader's judgment
+				- External indicators will interfere with grader's judgment
 -
