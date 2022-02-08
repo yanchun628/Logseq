@@ -39,4 +39,4 @@
 			- I have discussed with several analysts and reviewed our existing workflow. 
 			  And we find that the cooperation between the two teams is limited to a few aspects.
 			- For example on the knowledge level - we have a regular meeting with the analyst team
-			- We can see all of these interactions are just sing
+			- We can see all of these interactions are just single-directional that grading team is asking for help from analysts
