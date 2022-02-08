@@ -34,4 +34,5 @@
 			- 由grader 到 analyst
 	- Agenda
 		- output in holiday
-		- resourc
+		- resource
+		- interaction between grading team and analyst team
