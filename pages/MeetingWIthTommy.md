@@ -36,4 +36,5 @@
 		- output in holiday
 		- resource
 		- interaction between grading team and analyst team
-			- I have discussed with several analysts and reviewed our existing workflow.
+			- I have discussed with several analysts and reviewed our existing workflow. 
+			  And we find that the cooperation between the two teams is limited to a few aspects
