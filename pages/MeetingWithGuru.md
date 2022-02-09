@@ -56,6 +56,7 @@
 - [[Feb 9th, 2022]]
 	- guideline update
 		- 已经 confirmed - final version
+		- took the first step - announce it to the team
 		- initial stage 更高的 conflict
 	- 有关 unknown
 	- overlap study
