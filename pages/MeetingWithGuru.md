@@ -55,3 +55,4 @@
 		- 有关时间点 - 春节假期
 - [[Feb 9th, 2022]]
 	- guideline update
+		- 已经 confirmed - final version
