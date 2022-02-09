@@ -4,3 +4,4 @@
 		- I plan to speed things up and announce before the end of the week
 	- 有关执行 implementation / execution
 	- focus on risk graders
+	- 接受问题 -初步处理 - 汇总 - 解答
