@@ -70,4 +70,5 @@
 	- Reporting- meet with yafet
 		- use percentage for different group
 	- 继续修改截图
-	- average graded output/assignment
+	- TODO Latency
+		- (1) trend on latencies (2) why delay from ASC model (3) add avg graded output/assignment (4) why graders pulling new assignments before closing the old one.
