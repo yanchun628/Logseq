@@ -65,5 +65,5 @@
 	- hygien event reverse tt
 	- fp as good -  url subtype as good
 		- manually？ no automatically trigger
-		-
+		- 在自动之前我们需要一点培训
 	- initiate the time travel
