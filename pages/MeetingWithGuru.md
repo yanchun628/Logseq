@@ -63,5 +63,6 @@
 	- url
 - Reverse TT
 	- hygien event reverse tt
-	- fp as good
+	- fp as good -  url subtype as good
+		- manually？ no
 	- initiate the time travel
