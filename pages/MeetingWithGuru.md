@@ -70,4 +70,4 @@
 	- Reporting- meet with yafet
 		- use percentage for different group
 	- 继续修改截图
-		-
+	- average graded output/assignment
