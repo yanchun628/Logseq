@@ -54,4 +54,4 @@
 			- 如果我们involve 更多人进来，大概率不会被通过
 		- 有关时间点 - 春节假期
 - [[Feb 9th, 2022]]
-	-
+	- guideline update
