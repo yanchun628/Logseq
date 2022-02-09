@@ -2,4 +2,4 @@
 	- Guideline 已经敲定
 		- Unknown - language
 		- I plan to speed things up and announce before the end of the week
-	- 有关执行 implementation / excution
+	- 有关执行 implementation / execution
