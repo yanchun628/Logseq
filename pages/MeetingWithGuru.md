@@ -54,6 +54,4 @@
 			- 如果我们involve 更多人进来，大概率不会被通过
 		- 有关时间点 - 春节假期
 - [[Feb 9th, 2022]]
-	- Guideline 更新
-		- 进展 - announce to the team - 宽限时间 for overlap study
-	- 有关team wiki的 合规性
+	-
