@@ -68,5 +68,5 @@
 			- 在自动之前我们需要手动进行测试 - 需要培训  然后自动化
 		- initiate the time travel
 	- Reporting-
-		- use percentage for
+		- use percentage for different group
 		-
