@@ -23,4 +23,5 @@
 - [[Jan 25th, 2022]]
 	- smartscreen training finished
 	- resource / covid situation in hyd - no impact
-- [[Feb 14th, 2022]]
+- [[Feb 15th, 2022]]
+	- 新的kes研发进程？
