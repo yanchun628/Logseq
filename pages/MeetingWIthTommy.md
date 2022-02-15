@@ -26,4 +26,6 @@
 - [[Feb 15th, 2022]]
 	- 新的kes研发进程？
 	- team status about guideline update
+		- published in last week
+		- all graders are now grading with new guideline
 	- next week president day
