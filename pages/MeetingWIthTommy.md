@@ -28,4 +28,5 @@
 	- team status about guideline update
 		- published in last week
 		- all graders are now grading with new guideline
+		- keep mornitoring
 	- next week president day
