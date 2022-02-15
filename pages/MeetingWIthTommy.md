@@ -25,7 +25,7 @@
 	- resource / covid situation in hyd - no impact
 - [[Feb 15th, 2022]]
 	- 新的kes研发进程？
-		- Heard from guru that there is
+		- Heard from guru that there is a new grading tool being developed b
 	- team status about guideline update
 		- published in last week
 		- all graders are now grading with new guideline
