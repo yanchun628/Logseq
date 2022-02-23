@@ -72,3 +72,8 @@
 	- 继续修改截图
 	- TODO Latency
 		- (1) trend on latencies (2) why delay from ASC model (3) add avg graded output/assignment (4) why graders pulling new assignments before closing the old one.
+	- [[Feb 23rd, 2022]]
+		- HVD DOMAINS stop using
+		- URL related
+		- REVERSE TT
+		- leads' sharing their understanding by report
