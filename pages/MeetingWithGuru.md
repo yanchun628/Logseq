@@ -77,3 +77,6 @@
 		- URL related
 		- REVERSE TT
 		- leads' sharing their understanding by report
+	- [[Mar 2nd, 2022]]
+		- HVD -
+			- some domain - only cases
