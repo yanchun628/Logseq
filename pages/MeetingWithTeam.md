@@ -8,5 +8,5 @@
 - [[Feb 28th, 2022]]
 	- Resource (alias validation) discrepency
 	- spam analyst & grading
-	-
+	- high risk graders
 	-
