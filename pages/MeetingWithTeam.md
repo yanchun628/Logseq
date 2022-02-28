@@ -5,4 +5,5 @@
 	- 有关执行 implementation / execution
 	- focus on risk graders
 	- 接受问题 -初步处理 - 汇总 - 解答
--
+- [[Feb 28th, 2022]]
+	- Resource (alias)
