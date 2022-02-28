@@ -12,5 +12,6 @@
 	- 脚本
 		- with ruby
 			- agenda - created a slide for your convenience, but usually i don't do that
+			- weekly report review - a routine for our meeting
 	-
 -
