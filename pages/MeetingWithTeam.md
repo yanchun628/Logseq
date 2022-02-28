@@ -14,6 +14,6 @@
 			- agenda - created a slide for your convenience, but usually i don't do that
 			- weekly report review - a routine for our meeting
 				- easy to make , collect data from power bi dashboard and paste into an excel template
-				- We usually just browse this report briefly
+				- We usually just browse this report briefly If there is no abnormality
 	-
 -
