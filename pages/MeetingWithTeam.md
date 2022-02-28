@@ -13,5 +13,6 @@
 		- with ruby
 			- agenda - created a slide for your convenience, but usually i don't do that
 			- weekly report review - a routine for our meeting
+				- easy to make , collect data from power bi dashboard and paste into an excel temp
 	-
 -
