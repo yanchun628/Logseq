@@ -9,4 +9,7 @@
 	- Resource (alias validation) discrepency
 	- spam analyst & grading
 	- high risk graders
+	- 脚本
+		- with ruby
+			- agenda created a slide for your convience, but usually i don't do that
 	-
