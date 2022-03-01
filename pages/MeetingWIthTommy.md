@@ -35,4 +35,4 @@
 	- next week president day
 - [[Mar 1st, 2022]]
 	- ruby -
-		- we have s staffing update in grading team and here I'd like to intro
+		- we have s staffing update in grading team and here I'd like to introduce Ruby to you
