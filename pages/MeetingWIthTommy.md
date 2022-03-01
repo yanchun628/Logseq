@@ -35,5 +35,5 @@
 	- next week president day
 - [[Mar 1st, 2022]]
 	- ruby -
-		- we have s staffing update in grading team and here I'd like to introduce Ruby to you. She is going to be the major liaison of our team and ake over this meeting from me
+		- we have s staffing update in grading team and here I'd like to introduce Ruby to you. She is going to be the major liaison of our team and take over this meeting from my side soon
 -
