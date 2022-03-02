@@ -82,4 +82,4 @@
 			- some domain - only cases
 		- VSO / ADO involved grading team/ got permission from tommy
 		- guideline update -
-			- our
+			- our plan 举办集体的review 会议
