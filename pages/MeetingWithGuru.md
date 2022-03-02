@@ -83,4 +83,4 @@
 		- VSO / ADO involved grading team/ got permission from tommy
 		- guideline update
 			- our plan 举办集体的review 会议
-		- 索要不同
+		- 索要不同conflict type 的weight
