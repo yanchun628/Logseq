@@ -78,6 +78,7 @@
 		- REVERSE TT
 		- leads' sharing their understanding by report
 	- [[Mar 2nd, 2022]]
+		- introduce Krishna, my counter part
 		- HVD -
 			- some domain - only cases
 		- VSO / ADO involved grading team/ got permission from tommy
