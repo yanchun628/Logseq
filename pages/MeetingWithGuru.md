@@ -85,4 +85,7 @@
 		- guideline update
 			- our plan 举办集体的review 会议
 		- 索要不同conflict type 的weight
-	-
+	- [[Mar 9th, 2022]]
+		- invite krishna
+		- admin url
+		-
