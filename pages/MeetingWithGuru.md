@@ -88,4 +88,4 @@
 	- [[Mar 9th, 2022]]
 		- invite krishna
 		- admin url
-		-
+		- model accuracy
