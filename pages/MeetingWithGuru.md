@@ -90,3 +90,9 @@
 		- admin url
 		- model accuracy
 		- overlay study namelist?
+	- [[Mar 16th, 2022]]
+		- alias in overlap study
+			- yanyaxian
+			  lindongda
+			  奇怪 full operation 但是case 很少
+			- ruyujiang trainee status
