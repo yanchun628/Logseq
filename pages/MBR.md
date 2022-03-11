@@ -3,7 +3,7 @@
 		- context of this test
 			- designed by the FTE team.
 			- Each grader will automatically receive the same test email. The test is a blind test
-			-
+			- Every two weeks we will collect all test emails and analyze them
 			- we are using this sampling test to understand the overall performance.
 			- is the most important quality indicator for our customers
 		- 感谢所有 team lead 的支持
