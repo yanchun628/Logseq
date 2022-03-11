@@ -12,5 +12,6 @@
 		- Chanllanges
 			- Our Wuxi team is responsible for all of the communication / sync up meeting with various fte teams
 			- the idea/structure of new guide is produced by wuxi team
-			- We face the same challenges, so I won't go into details and repeat them again
+			- We face the same challenges, so I won't go into details and repeat them again since we are running out of time
 			- But I am more concerned about the next step of the global team
+-
