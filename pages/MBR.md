@@ -11,4 +11,4 @@
 		- 感谢所有 team lead 的支持
 		- Chanllanges
 			- We face the same challenges, so I won't go into details and repeat them again
-			-
+			- But I am more concerned about the next step of the global team
