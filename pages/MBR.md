@@ -6,4 +6,6 @@
 			- Every two weeks we will collect all test emails and analyze them
 			- we are using this sampling test to understand the overall performance.
 			- is the most important quality indicator for our customers
+		- Guideline
+			- try to solve the ambuigities in old guideline which could cause graders' conflict and give out clearer categories
 		- 感谢所有 team lead 的支持
