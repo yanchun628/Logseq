@@ -9,3 +9,6 @@
 		- Guideline
 			- try to solve the ambiguities in old guideline which could cause graders' conflict and give out clearer definitions and criteria for each labels.、
 		- 感谢所有 team lead 的支持
+		- Chanllanges
+			- We face the same challenges, so I won't go into details and repeat them again
+			-
