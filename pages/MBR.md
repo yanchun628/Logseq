@@ -7,5 +7,5 @@
 			- we are using this sampling test to understand the overall performance.
 			- is the most important quality indicator for our customers
 		- Guideline
-			- try to solve the ambiguities in old guideline which could cause graders' conflict and give out clearer definitions and criteria for each labels.
+			- try to solve the ambiguities in old guideline which could cause graders' conflict and give out clearer definitions and criteria for each labels.、
 		- 感谢所有 team lead 的支持
