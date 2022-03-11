@@ -10,7 +10,7 @@
 			- try to solve the ambiguities in old guideline which could cause graders' conflict and give out clearer definitions and criteria for each labels.
 		- 感谢所有 team lead 的支持
 		- Chanllanges
-			- Our Wuxi team is responsible for all of the
+			- Our Wuxi team is responsible for all of the communication / sync up meeting with various fte teams
 			- the idea/structure of new guide is produced by wuxi team
 			- We face the same challenges, so I won't go into details and repeat them again
 			- But I am more concerned about the next step of the global team
