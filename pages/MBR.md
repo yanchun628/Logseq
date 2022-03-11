@@ -2,4 +2,5 @@
 	- 脚本
 		- context of this test
 			- designed by the FTE team.
+			- Each grader will automatically receive the same test email. The test is a blind test
 		- 感谢所有 team lead 的支持
