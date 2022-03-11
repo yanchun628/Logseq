@@ -2,7 +2,7 @@
 	- 脚本
 		- context of this test
 			- designed by the FTE team.
-			- Each grader will automatically receive the same test email. The test is a blind test
+			- The system will automatically assign  the same test email to each grader every. The test is running blindly to graders
 			- Every two weeks we will collect all test emails and analyze them
 			- we are using this sampling test to understand the overall performance.
 			- is the most important quality indicator for our customers
