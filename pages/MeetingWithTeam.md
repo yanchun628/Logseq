@@ -20,4 +20,5 @@
 				- background here
 	-
 - [[Mar 16th, 2022]]
-	- Re-emphasize the importance of grading lantancy
+	- Re-emphasize the importance of grading latancy
+	-
