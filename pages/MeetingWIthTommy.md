@@ -23,17 +23,28 @@
 - [[Jan 25th, 2022]]
 	- smartscreen training finished
 	- resource / covid situation in hyd - no impact
-- [[Feb 15th, 2022]]
-	- 新的kes研发进程？
-		- Heard from guru that there is a new grading tool being developed
-			- Are you aware of this plan
-			- Analyst team is involved
-	- team status about guideline update
-		- published in last week
-		- all graders are now grading with new guideline
-		- keep mornitoring
-	- next week president day
-- [[Mar 1st, 2022]]
-	- ruby -
-		- we have s staffing update in grading team and here I'd like to introduce Ruby to you who is going to be the major liaison of our team and take over this meeting from my side soon, especially she will focus on the working process improvement of the team.
+- [[Feb 8th, 2022]]
+	- Silvan
+	- Analyst
+		- FP URL delist
+		- 从analyst 到 grader
+			- analyst notice 到 spam - 不太可能
+			- analyst的判断影响grader 的verdict
+		- 解答问题
+			- 由grader 到 analyst
+	- Agenda
+		- output in holiday
+		- resource
+			- 20 new graders have finished training and started production
+		- interaction between grading team and analyst team
+			- I have discussed with several analysts and reviewed our existing workflow. 
+			  And we find that the cooperation between the two teams is limited to a few aspects.
+				- For example on the knowledge level - we have a regular Q&A meeting with the analyst team to review and solve graders' confusion on specific cases during labeling
+				- They helped us a lot in the latest guideline update
+				- We found an important point that all these interactions are just single-directional that grading team is asking for help from analysts
+			- Expand the scope of cooperation
+			- Make connections in the opposite direction
+				- for example The grader can check the effect of analyst rules in some way
+				- We have some ideas
+				- External indicators will interfere with grader's judgment
 -

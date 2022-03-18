@@ -1,4 +1,0 @@
-- 人
-	- minghao  jiacheng myrtle
-	- yingxiang yaixin
-	- team leads
