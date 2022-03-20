@@ -97,6 +97,5 @@
 			  奇怪 full operation 但是case 很少
 			- ruyujiang trainee status
 	- [[Mar 23rd, 2022]]
-		- [[Mar 23rd, 2022]]
-			- overlap study 的问题
-				- score got polluted by trainees
+		- overlap study 的问题
+		- score got polluted by trainees
