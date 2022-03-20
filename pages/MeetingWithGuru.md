@@ -72,6 +72,27 @@
 	- 继续修改截图
 	- TODO Latency
 		- (1) trend on latencies (2) why delay from ASC model (3) add avg graded output/assignment (4) why graders pulling new assignments before closing the old one.
-	- [[Mar 23rd, 2022]]
-		- overlap study 的问题
-			- score got polluted by trainees
+	- [[Feb 23rd, 2022]]
+		- HVD DOMAINS stop using
+		- URL related
+		- REVERSE TT
+		- leads' sharing their understanding by report
+	- [[Mar 2nd, 2022]]
+		- introduce Krishna, my counter part
+		- HVD -
+			- some domain - only cases
+		- VSO / ADO involved grading team/ got permission from tommy
+		- guideline update
+			- our plan 举办集体的review 会议
+		- 索要不同conflict type 的weight
+	- [[Mar 9th, 2022]]
+		- invite krishna
+		- admin url
+		- model accuracy
+		- overlay study namelist?
+	- [[Mar 16th, 2022]]
+		- alias in overlap study
+			- yanyaxian
+			  lindongda
+			  奇怪 full operation 但是case 很少
+			- ruyujiang trainee status

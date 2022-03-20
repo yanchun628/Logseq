@@ -1,0 +1,17 @@
+- [[Mar 11th, 2022]]
+	- 脚本
+		- context of this test
+			- designed by the FTE team.
+			- The system will automatically assign the same test email to each grader every. The test is running blindly to graders
+			- Every two weeks we will collect all test emails and analyze them
+			- we are using this sampling test to understand the overall performance.
+			- is the most important quality indicator for our customers
+		- Guideline
+			- try to solve the ambiguities in old guideline which could cause graders' conflict and give out clearer definitions and criteria for each labels.
+		- 感谢所有 team lead 的支持
+		- Chanllanges
+			- Our Wuxi team is responsible for all of the communication / sync up meeting with various fte teams
+			- the idea/structure of new guide is produced by wuxi team
+			- We face the same challenges, so I won't go into details and repeat them again since we are running out of time
+			- But I am more concerned about the next step of the global team
+-

@@ -5,3 +5,21 @@
 	- 有关执行 implementation / execution
 	- focus on risk graders
 	- 接受问题 -初步处理 - 汇总 - 解答
+- [[Feb 28th, 2022]]
+	- Resource (alias validation) discrepency
+	- spam analyst & grading
+	- high risk graders
+	- 脚本
+		- with ruby
+			- agenda - created a slide for your convenience, but usually i don't do that
+			- weekly report review - a routine for our meeting
+				- easy to make , collect data from power bi dashboard and paste into an excel template
+				- We usually just browse this report briefly If there is no abnormality
+			- next we will concentrate on important team matters
+			- risk graders - the most import task for this week As requested by the fte team
+				- background here
+	-
+- [[Mar 16th, 2022]]
+	- Overlap study
+	- Re-emphasize the importance of grading latenncy
+	-
