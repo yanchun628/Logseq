@@ -22,4 +22,7 @@
 - [[Mar 16th, 2022]]
 	- Overlap study
 	- Re-emphasize the importance of grading latenncy
+- [[Mar 21st, 2022]]
+	- Latest study result 以及安排时间
+	- url
 	-
