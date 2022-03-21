@@ -96,7 +96,8 @@
 			  lindongda
 			  奇怪 full operation 但是case 很少
 			- ruyujiang trainee status
-		- task - dash board for asc ()
+		- task - dash board for asc (url subtype)
+			- action items for overlap study and url
 	- [[Mar 23rd, 2022]]
 		- overlap study 的问题
 		- score got polluted by trainees
