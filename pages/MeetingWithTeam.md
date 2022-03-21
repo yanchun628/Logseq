@@ -25,4 +25,5 @@
 - [[Mar 21st, 2022]]
 	- Latest study result 以及安排时间
 	- url
+	- 20k assignment
 	-
