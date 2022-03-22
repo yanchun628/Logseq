@@ -102,5 +102,6 @@
 			- url subtype admin feed
 	- [[Mar 23rd, 2022]]
 		- overlap study 的问题
+			- krishna accditent, delay the meeting
 		- score got polluted by trainees
 			- namelist need calibration?
