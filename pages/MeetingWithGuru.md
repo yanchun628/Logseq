@@ -103,3 +103,4 @@
 	- [[Mar 23rd, 2022]]
 		- overlap study 的问题
 		- score got polluted by trainees
+			- namelist need calibration?
