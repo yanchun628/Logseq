@@ -105,3 +105,5 @@
 			- krishna accditent, delay the meeting
 		- score got polluted by trainees
 			- namelist need calibration?
+			-
+-
