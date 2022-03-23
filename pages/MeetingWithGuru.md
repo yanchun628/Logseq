@@ -70,40 +70,42 @@
 	- Reporting- meet with yafet
 		- use percentage for different group
 	- 继续修改截图
-	- TODO Latency
+	- DONE Latency
 		- (1) trend on latencies (2) why delay from ASC model (3) add avg graded output/assignment (4) why graders pulling new assignments before closing the old one.
-	- [[Feb 23rd, 2022]]
-		- HVD DOMAINS stop using
-		- URL related
-		- REVERSE TT
-		- leads' sharing their understanding by report
-	- [[Mar 2nd, 2022]]
-		- introduce Krishna, my counter part
-		- HVD -
-			- some domain - only cases
-		- VSO / ADO involved grading team/ got permission from tommy
-		- guideline update
-			- our plan 举办集体的review 会议
-		- 索要不同conflict type 的weight
-	- [[Mar 9th, 2022]]
-		- invite krishna
-		- admin url
-		- model accuracy
-		- overlay study namelist?
-	- [[Mar 16th, 2022]]
-		- alias in overlap study
-			- yanyaxian
-			  lindongda
-			  奇怪 full operation 但是case 很少
-			- ruyujiang trainee status
-		- task - dash board for asc (url subtype)
-			- action items for overlap study and url
-			- reverse tt 已经开始
-			- url subtype admin feed
-	- [[Mar 23rd, 2022]]
-		- overlap study 的问题
-			- krishna accditent, delay the meeting
-		- score got polluted by trainees
-			- namelist need calibration?
-			-
+- [[Feb 23rd, 2022]]
+	- HVD DOMAINS stop using
+	- URL related
+	- REVERSE TT
+	- leads' sharing their understanding by report
+- [[Mar 2nd, 2022]]
+	- introduce Krishna, my counter part
+	- HVD -
+		- some domain - only cases
+	- VSO / ADO involved grading team/ got permission from tommy
+	- guideline update
+		- our plan 举办集体的review 会议
+	- 索要不同conflict type 的weight
+- [[Mar 9th, 2022]]
+	- invite krishna
+	- admin url
+	- model accuracy
+	- overlay study namelist?
+- [[Mar 16th, 2022]]
+	- alias in overlap study
+		- yanyaxian
+		  lindongda
+		  奇怪 full operation 但是case 很少
+		- ruyujiang trainee status
+	- task - dash board for asc (url subtype)
+		- action items for overlap study and url
+		- reverse tt 已经开始
+		- url subtype admin feed
+- [[Mar 23rd, 2022]]
+	- overlap study 的问题
+		- krishna accditent, delay the meeting
+	- Admin URL
+		- kes update
+	- score got polluted by trainees
+		- namelist need calibration?
+		-
 -
