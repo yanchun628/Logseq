@@ -111,5 +111,6 @@
 	- 名单的问题
 		- 1. 保证 consumer grader 不去 fetch enterprise 邮件
 		  2. 根据 dbo.grader 里的身份，有些grader不是overlap study，却还能得到assignment
-		  3. 公用账号的问题 v-wangze / v-xiaojieli / v-junchenghe 这种
+		  3. assgnment 不满
+		  4. 公用账号的问题 v-wangze / v-xiaojieli / v-junchenghe 这种
 	- FP Admin URL coverage  assignment / submission 不是url
