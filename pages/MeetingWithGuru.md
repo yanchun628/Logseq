@@ -109,5 +109,5 @@
 		- namelist need calibration?
 - [[Mar 24th, 2022]]
 	- 名单的问题
-		- 1. 保证 consumer grader 不去fetch enterprise 邮件
+		- 1. 保证 consumer grader 不去 fetch enterprise 邮件
 -
