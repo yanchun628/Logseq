@@ -108,5 +108,6 @@
 	- score got polluted by trainees
 		- namelist need calibration?
 - [[Mar 24th, 2022]]
-	-
+	- 名单的问题
+		- 1. 保证 consumer grader
 -
