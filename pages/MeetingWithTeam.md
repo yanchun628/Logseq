@@ -33,8 +33,8 @@
 - [[Apr 4th, 2022]]
 	- Grading task completed
 	- Quality
-		- alerts
-		-
+		- BEC
+		- two alerts
 	- Latency
 	- KES
 	-
