@@ -30,4 +30,11 @@
 	- 20k assignment
 - [[Mar 23rd, 2022]]
 	- 聚焦在 high conflict ratio 的case 如果重复出现的话
+- [[Apr 4th, 2022]]
+	- Grading task completed
+	- Quality
+		- alerts
+		-
+	- Latency
+	- KES
 	-
