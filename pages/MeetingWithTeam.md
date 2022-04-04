@@ -35,6 +35,8 @@
 	- Quality
 		- BEC
 		- two alerts
-	- Latency
+	- Grading Latency
+		- meeting this afternoon
 	- KES
+		- verdict
 	-
