@@ -139,4 +139,4 @@
 	- see any progress on grading latency?
 	- TODO for today's meeting
 		- investigation
-		- new dashboard 检查有没有问题 没有问题就会replace
+		- new dashboard 检查有没有问题 没有问题就会replace  /w yafet
