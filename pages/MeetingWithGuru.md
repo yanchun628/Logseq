@@ -132,3 +132,6 @@
 	- FP URL
 		- started increasing
 	- eligibility in osp literally disappears
+	- UNKNOWN
+		- Grader mistake
+		- one certain type we are still discussing
