@@ -131,3 +131,4 @@
 - [[Apr 20th, 2022]]
 	- FP URL
 		- started increasing
+	- eligibility in osp literally disappears
