@@ -137,4 +137,6 @@
 		- Grader mistake
 		- one certain type we are still discussing
 	- see any progress on grading latency?
-	- TODO
+	- TODO for today's meeting
+		- investigation
+		- new dashboard 检查有没有问题 没有问题就会replace
