@@ -144,4 +144,5 @@
 			- grading latency
 		- new dashboard 检查有没有问题 没有问题就会replace  /w yafet
 - Conflict 区间分析
+	- 稍微转变一下方向 从 high conflict 到low conflict - 保底
 	- ![2022_04_21_image.png](https://cdn.logseq.com/%2Fe665ccdc-ca08-4e13-adf4-2c2994386a2b345d515b-c3a0-406d-8c42-3bc2ed9710672022_04_21_image.png?Expires=4804120331&Signature=a9MyyeqrDINFY3eBmJas1JyDm5T-kktXZHU5YfMEoc~yGsY-KkRrOqvpJxPcfUCaTBmsgKjJDk9OA6haZLroTTrKNX6ao8xfvMiFz7vOHjF4UDFlk~f1eyGqZWYqh1Y2jPHFCOoqDRwXeIAy9w3bMksnJgwqJckLduduK8G1a3wQAkTNsh34hn86MaUVqWU2Hwjd5adbQ-8WHYf74ZoqBuv4V--2rss62xt5wPLtnh3Me8oyD7~wFvduBgtqGngHKWY~UacLpaR604T10IOt8q2bldD2GENqi~Co9ztBT7p~peXNsttQK5qGBt-TWTNaeyPzZAtwb-i8ZP5GK9j6kA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
