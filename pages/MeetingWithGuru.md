@@ -152,4 +152,5 @@
 	- ![2022_04_21_image.png](https://cdn.logseq.com/%2Fe665ccdc-ca08-4e13-adf4-2c2994386a2bb7e17a07-2f47-48ca-b37e-961fcf90a1942022_04_21_image.png?Expires=4804137370&Signature=F3Xct0Cxl7HD0BLa7SeUzGUHLticBHrOyCm4-NJZRxWJacZ30rI4DNXy02ynnunt-t2qlkk6SKOMPsYZ~hX-ngeF9TwBcXurtj7rN1r33Eiyino1oe5eY0tntesxOxnl5KSepDkzZmUl~eFgM18OtGDOjyV4kogNHWtmvQTJBiyFv6-dkxk4CJB5nPbUJprS0hT49BR-~Rp96rgA9YddWAnbGrvIcJMPN0Gd4M0y1CpbjfRj6ferLglRikFFN8ggBnunxsMxXjKTJUecbFK0NfBBn6dXjSQXBp89qU5tJ5koHedsFFV7R0GDxgU~MEBCYtc0a8yK8gt2BHQPNHe3Xg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 - [[Apr 27th, 2022]]
 	- Grading Latency **Subscription**
-	- Unknwon categories
+		- jackdai
+	- Unknown categories
