@@ -154,3 +154,5 @@
 	- Grading Latency **Subscription**
 		- jackdai
 	- Unknown categories
+- [[May 4th, 2022]]
+	- latency
