@@ -163,4 +163,8 @@
 		- Latency report (Subscription page is ready for daily sending)
 		- FP Url
 		- KES issue affecting both latency and url
+		- ATTACH comment already started
 	- Unknown in FP Url
+		- IP
+		- Educational phish
+		- 3rd-party black list record
