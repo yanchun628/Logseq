@@ -155,4 +155,5 @@
 		- jackdai
 	- Unknown categories
 - [[May 4th, 2022]]
-	- latency
+	- latency report
+	- unknown category and other scenarios report
