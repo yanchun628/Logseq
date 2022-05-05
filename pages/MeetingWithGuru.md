@@ -172,6 +172,7 @@
 		- https://mxtoolbox.com/SuperTool.aspx?action=https%3a%2f%2fwww.elotrans.com.br%2f&run=toolpage
 		- elotrans.com.br
 			- 11929233009934723
+			- ![2022_05_05_image.png](https://cdn.logseq.com/%2Fe665ccdc-ca08-4e13-adf4-2c2994386a2b8fd8a56a-0477-4b91-ac60-9af93d3d3dfb2022_05_05_image.png?Expires=4805321151&Signature=jHhKJLFN2P2MRCHjuj3oKrr24TswqKmWIjQzyZ2Pm8ZXm9RNh4U6RlwCXbgUy85dwapKUS7TxxcKLi98yj~4ZR9bsMmllV7xeBRKjJPHpOf8rjRnXvHjDDlVBaTSagqYlCg3ASOS8sETChBziobm7~gFc6LFKKOeccRSeWVVLD9OMKfTdjvIFmmBo4BiEslouraHcEIVsG3eanbGO6UWrlM7wz9ZwIO8loK7gmSZAV2BNER8Z87UrH0QNP~4mFSe6qem9hZaEx~vTPaguYfORIRkRRhOgf1mORU-RH00HYSDlwbfYevm5DxjchAiObNbKmPKtkvmz61HyiWVI6kHYg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 		- latency related find the root cause
 			- 试试把 not updated 不为空 取消 看 kes 故障前后的变化
 		- loop GURU in the mail thread [[May 5th, 2022]]
