@@ -183,4 +183,5 @@
 	- assignment issue - optimize
 	- conflict 的计算方式
 		- versus different graders / just true class
+		- 笛卡尔积
 -
