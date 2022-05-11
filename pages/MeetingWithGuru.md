@@ -182,4 +182,5 @@
 		- ![2022_05_11_image.png](https://cdn.logseq.com/%2Fe665ccdc-ca08-4e13-adf4-2c2994386a2b29c556b7-4f97-4627-a0ce-cf5004a2f40f2022_05_11_image.png?Expires=4805876606&Signature=Rd2t4ptCcxSuMq9~ItzOL6t-4CpssHpbtcIaOPGE0Dw3eJo5-Tc4kobDlGghXVL5e-hZ9n8opUrZmBLpU3lzginOHRLrSKHvqV8Ma4O0YK-nw1vU~aJ7ePbowR5Zhxtdz31D91X0Xz7KpTlHAv~QESAybjHU7EOY97Mzti1acKd4tk0EhNG0LgbcSWP3kgxcDfScA-Gg6oFGnwvao~CmoTh2VIgPeELjD~HDqgp~wNU7vDnecbzrxkX-L2lPEIN1tHB8Bj3zHbwjZ2eRA9RbSotOLM0C8mz6FD4dzLVqZ-p3SJ~Psgzmh9EFb1YUK5DgzDdRPyIe1MuSeEKTaAe5dA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 	- assignment issue - optimize
 	- conflict 的计算方式
+		- versus different graders / just true class
 -
