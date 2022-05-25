@@ -184,4 +184,5 @@
 	- conflict 的计算方式
 		- versus different graders / just true class
 		- 笛卡尔积 left out join
--
+- [[May 25th, 2022]]
+	- talk with xiaocheng about MissingURL
