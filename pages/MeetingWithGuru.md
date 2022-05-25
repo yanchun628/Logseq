@@ -186,3 +186,5 @@
 		- 笛卡尔积 left out join
 - [[May 25th, 2022]]
 	- talk with xiaocheng about MissingURL
+	- OVLP
+		-
