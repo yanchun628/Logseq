@@ -195,4 +195,4 @@
 - [[May 31st, 2022]]
 	- Follow up questions
 		- 除了 unknown - url 其他都完成
-	-
+	- ovlp stdy for consumer confirm with yafet
