@@ -199,3 +199,7 @@
 		- from your point of view, the feasibility of
 	- Yafet - reviewed label - ok
 	- phish - url still blank cases?
+- [[Jun 15th, 2022]]
+	- OVLP STDY
+		- done with reviewing and commenting
+		- and shared with other team leads and graders
